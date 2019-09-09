@@ -1,1 +1,7 @@
 #GitIgnore
+#ignore because password
+/includes/dbConn.php
+#dont want to give away secrets
+*.sql
+#dont need to host images on github
+/img
