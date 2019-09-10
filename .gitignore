@@ -5,3 +5,5 @@
 *.sql
 #dont need to host images on github
 /img
+#ignore node
+/node_modules
